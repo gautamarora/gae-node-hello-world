@@ -4,7 +4,7 @@
   "description": "Hello World Node App for Google App Engine",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node server.js",
     "test": "jest"
   },
   "dependencies": {
